@@ -43,7 +43,7 @@ Identificar y analizar las aplicaciones de la Inteligencia Artificial (IA) y Mac
 
 ## Dataset
 
-El archivo `MappingReview.csv` contiene 126 publicaciones científicas relacionadas con IA y ML en educación matemática K-12, con los siguientes campos:
+El archivo `MappingReview.csv` contiene 268 publicaciones científicas relacionadas con IA y ML en educación matemática K-12, con los siguientes campos:
 
 - **Title**: Título del artículo
 - **Author(s)**: Autores
@@ -52,10 +52,6 @@ El archivo `MappingReview.csv` contiene 126 publicaciones científicas relaciona
 - **Type of Publication**: Tipo de publicación
 - **Source**: Fuente de datos
 - **DOI**: Identificador digital del objeto
-- **Present in Eric**: Presencia en base de datos Eric
-- **Present in IEEE**: Presencia en base de datos IEEE
-- **Present in Scopus**: Presencia en base de datos Scopus
-- **Present in WoS**: Presencia en base de datos Web of Science
 - **Abstract**: Resumen del artículo
 
 ## Análisis Realizado
