@@ -1,14 +1,16 @@
 # Mapping Review: Inteligencia Artificial y Machine Learning en Educación Matemática K-12
 
-## Descripción del Proyecto
+## 📋 Descripción del Proyecto
 
-Este repositorio contiene una revisión sistemática de mapeo (mapping review) sobre las aplicaciones de Inteligencia Artificial (IA) y Machine Learning (ML) en el proceso de enseñanza-aprendizaje de las matemáticas en educación K-12.
+Este repositorio contiene una **revisión sistemática de mapeo (mapping review)** sobre las aplicaciones de Inteligencia Artificial (IA) y Machine Learning (ML) en el proceso de enseñanza-aprendizaje de las matemáticas en educación K-12.
 
-## Objetivo
+**Dataset**: 89 publicaciones científicas analizadas (2021-2025)
 
-Identificar y analizar las aplicaciones de la Inteligencia Artificial (IA) y Machine Learning (ML) en el proceso de enseñanza-aprendizaje de las matemáticas a través de una revisión sistemática de la literatura.
+## 🎯 Objetivo
 
-## Preguntas de Investigación (Mapping Questions - MQ)
+Identificar y analizar sistemáticamente las aplicaciones de la Inteligencia Artificial (IA) y Machine Learning (ML) en el proceso de enseñanza-aprendizaje de las matemáticas a través de una revisión exhaustiva de la literatura científica.
+
+## ❓ Preguntas de Investigación (Mapping Questions - MQ)
 
 - **MQ1**: ¿Cuántos estudios se han publicado a lo largo de los años?
 - **MQ2**: ¿Quiénes son los autores más activos del área?
@@ -20,11 +22,12 @@ Identificar y analizar las aplicaciones de la Inteligencia Artificial (IA) y Mac
 - **MQ8**: ¿Qué años cubren los estudios de revisión y mapeo?
 - **MQ9**: ¿Qué tipo de revisiones se publican?
 
-## Estructura del Repositorio
+## 📁 Estructura del Repositorio
 
 ```
 ├── README.md
-├── MappingReview.csv          # Base de datos principal
+├── MappingReview.csv          # Base de datos principal (89 publicaciones)
+├── requirements.txt           # Dependencias de Python
 ├── notebooks/                 # Notebooks de análisis
 │   ├── 01_analisis_descriptivo.ipynb
 │   ├── 02_autores_activos.ipynb
@@ -35,15 +38,14 @@ Identificar y analizar las aplicaciones de la Inteligencia Artificial (IA) y Mac
 │   ├── 07_dominios_estudios.ipynb
 │   ├── 08_anos_cobertura.ipynb
 │   └── 09_tipos_revisiones.ipynb
-├── results/                   # Resultados y visualizaciones
-│   ├── figures/
-│   └── tables/
-└── requirements.txt           # Dependencias de Python
+└── results/                   # Resultados y visualizaciones
+    ├── figures/
+    └── tables/
 ```
 
-## Dataset
+## 📊 Dataset
 
-El archivo `MappingReview.csv` contiene 268 publicaciones científicas relacionadas con IA y ML en educación matemática K-12, con los siguientes campos:
+El archivo `MappingReview.csv` contiene **89 publicaciones científicas** relacionadas con IA y ML en educación matemática K-12, con los siguientes campos:
 
 - **Title**: Título del artículo
 - **Author(s)**: Autores
@@ -54,9 +56,9 @@ El archivo `MappingReview.csv` contiene 268 publicaciones científicas relaciona
 - **DOI**: Identificador digital del objeto
 - **Abstract**: Resumen del artículo
 
-## Análisis Realizado
+## 🔬 Análisis Realizado
 
-El análisis se realiza utilizando Google Colab con los siguientes notebooks:
+El análisis se realiza utilizando **Google Colab** con los siguientes notebooks:
 
 1. **Análisis Descriptivo**: Estadísticas generales del corpus
 2. **Autores Más Activos**: Identificación de investigadores principales
@@ -68,29 +70,76 @@ El análisis se realiza utilizando Google Colab con los siguientes notebooks:
 8. **Años de Cobertura**: Distribución temporal
 9. **Tipos de Revisiones**: Clasificación de revisiones
 
-## Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 - **Python**: Análisis de datos
 - **Pandas**: Manipulación de datos
-- **Matplotlib/Seaborn**: Visualizaciones
+- **Matplotlib/Seaborn/Plotly**: Visualizaciones
+- **NLTK/TextBlob**: Procesamiento de texto
+- **Scikit-learn**: Análisis de machine learning
 - **Google Colab**: Entorno de desarrollo
-- **GitHub**: Control de versiones
 
-## Cómo Usar
+## 🚀 Cómo Usar
 
+### Opción 1: Google Colab (Recomendado)
+1. Abre los notebooks en Google Colab
+2. Ejecuta el análisis paso a paso
+3. Revisa los resultados generados
+
+### Opción 2: Entorno Local
 1. Clona este repositorio
-2. Abre los notebooks en Google Colab
-3. Ejecuta el análisis paso a paso
-4. Revisa los resultados en la carpeta `results/`
+2. Instala las dependencias: `pip install -r requirements.txt`
+3. Abre los notebooks en Jupyter Lab o VS Code
+4. Ejecuta el análisis
 
-## Contribuciones
+## 📈 Resultados Principales
 
-Este proyecto es parte de una investigación doctoral sobre IA en educación matemática.
+### 📊 Estadísticas Generales
+- **Dataset**: 89 publicaciones científicas analizadas (2020-2025)
+- **Crecimiento**: Tendencia exponencial con pico en 2024 (35 publicaciones)
+- **Autores**: 335 investigadores únicos identificados
+- **Promedio**: 4.0 autores por publicación
 
-## Licencia
+### 📚 Distribución por Fuentes
+- **Scopus**: 44 publicaciones (49.4%) ⭐ Dominante
+- **WoS**: 21 publicaciones (23.6%)
+- **Eric**: 18 publicaciones (20.2%)
+- **IEEE**: 6 publicaciones (6.7%)
+
+### 📄 Tipos de Publicación
+- **Artículos**: 52 publicaciones (58.4%) ⭐ Dominante
+- **Conferencias**: 33 publicaciones (37.1%)
+- **Capítulos de libro**: 4 publicaciones (4.5%)
+
+### 🎯 Dominios de Investigación
+- **Educación**: 58 estudios (65.2%) ⭐ Dominante
+- **Inteligencia Artificial**: 55 estudios (61.8%)
+- **Matemáticas**: 45 estudios (50.6%)
+- **Tecnología**: 9 estudios (10.1%)
+- **Evaluación**: 7 estudios (7.9%)
+- **Personalización**: 7 estudios (7.9%)
+
+### 📋 Trabajos de Revisión Identificados
+- **Total**: 4 trabajos específicos (4.5% del total)
+- **Tipos**: Systematic Review (3.4%), Mapping/Scoping Review (1.1%), Narrative Review (1.1%)
+- **Cobertura**: 2022-2024
+
+### 🔍 Términos Más Frecuentes
+- **learning** (52), **mathematics** (30), **based** (18), **school** (17), **students** (16)
+- **machine** (15), **education** (14), **intelligence** (13), **artificial** (11), **teachers** (10)
+
+## 📚 Contribuciones
+
+Este proyecto es parte de una **investigación doctoral** sobre IA en educación matemática.
+
+## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT.
 
-## Contacto
+## 👤 Contacto
 
 Para más información sobre este proyecto, contacta al autor principal.
+
+---
+
+**Nota**: Este proyecto está optimizado para ejecutarse en Google Colab para mejor compatibilidad y rendimiento.
