@@ -33,7 +33,8 @@ Identificar y analizar sistemáticamente las aplicaciones de la Inteligencia Art
 │   ├── 02_autores_activos.ipynb
 │   ├── 03_tipos_articulos.ipynb
 │   ├── 04_fuentes_publicacion.ipynb
-│   ├── 05_bases_datos.ipynb
+│   ├── 05_bases_datos.ipynb   # Notebook para análisis de bases de datos (Google Colab)
+│   ├── 05_bases_datos.py      # Script Python para análisis de bases de datos (local)
 │   ├── 06_terminos_busqueda.ipynb
 │   ├── 07_dominios_estudios.ipynb
 │   ├── 08_anos_cobertura.ipynb
