@@ -1,0 +1,76 @@
+PI1: Aplicaciones específicas de la inteligencia artificial y el aprendizaje automático en los procesos de aprendizaje y enseñanza de las matemáticas en la educación secundaria
+Aplicaciones explícitas informadas:
+
+Uso de la probabilidad condicional para comprender los algoritmos de texto predictivo:
+La aplicación específica principal detallada se refiere a que los estudiantes aprendan cómo la probabilidad condicional es fundamental para muchos algoritmos de aprendizaje automático, incluidas las aplicaciones de texto predictivo. El documento describe una lección en la que los estudiantes "usaron la probabilidad condicional para conjeturar un algoritmo de texto predictivo, que, si se traduce a un lenguaje de codificación, podría enseñar a una computadora a predecir lo que un usuario quiere escribir, dadas las palabras anteriores en un mensaje" [1], [1]. Esto vincula claramente los conceptos de IA/ML con el aprendizaje matemático concreto.
+
+Cálculo de probabilidades experimentales con datos de texto de usuario real:
+Los estudiantes trabajaron con conjuntos de datos de textos reales generados por el usuario, empleando probabilidades experimentales para estimar probabilidades condicionales como 
+P
+(
+palabra
+∣
+Palabras anteriores
+)
+P(palabra∣palabras anteriores). Este enfoque aplica explícitamente los principios del aprendizaje automático en un contexto matemático al conectar el cálculo de probabilidad condicional con el modelado predictivo [1], [1].
+
+Conjeturando algoritmos de texto predictivos:
+La lección involucró actividades en las que los estudiantes tenían la tarea de "usar las respuestas a las indicaciones anteriores para conjeturar un algoritmo de texto predictivo, que posiblemente podría usarse para enseñar a una máquina a adivinar el siguiente término en un mensaje" [1]. Esta aplicación se centra en el pensamiento algorítmico conectado a la IA y el aprendizaje automático a través del compromiso directo con los datos.
+
+Demostración de la mejora de la inteligencia a través del aumento del tamaño del conjunto de datos:
+Los estudiantes discutieron y entendieron cómo "las máquinas hacen mejores predicciones, es decir, se vuelven más inteligentes, a medida que aumenta el tamaño de un conjunto de datos", vinculando el concepto a la ley de los grandes números aplicada a las probabilidades experimentales que se vuelven más representativas de las probabilidades reales [1], [1], [1].
+
+Conectando conceptos de IA cultural y profesionalmente:
+El documento señala el contexto más amplio de que las tecnologías de inteligencia artificial están "profundamente arraigadas en nuestra vida cotidiana en las plataformas de redes sociales, utilizando motores de búsqueda, hablando con Siri y empleando aplicaciones de texto predictivo", y que existe una demanda de habilidades de la fuerza laboral en datos, análisis, aprendizaje automático e IA [1], [1]. La aplicación educativa se relaciona directamente con la preparación de los estudiantes para tales entornos.
+
+Resumen sobre aplicaciones:
+El documento destaca específicamente la enseñanza del aprendizaje automático a través de algoritmos de probabilidad condicional y texto predictivo como un medio para conectar el contenido matemático con los conceptos de IA / ML. Este enfoque utiliza datos reales y actividades prácticas en las que los estudiantes analizan probabilidades condicionales de conjuntos de datos de texto para construir una comprensión intuitiva y procedimental del modelado predictivo en la educación matemática secundaria.
+
+PI2: Tipos de metodologías de enseñanza mediadas por la inteligencia artificial y el aprendizaje automático aplicadas específicamente en la enseñanza de las matemáticas en la educación secundaria
+Metodologías de enseñanza reportadas:
+
+Trabajo colaborativo en grupo y conjeturas:
+Los estudiantes trabajaron en grupos pequeños para completar exploraciones enfocadas en desarrollar la intuición sobre la probabilidad en aplicaciones de texto predictivo. Colaboraron para conjeturar qué palabras siguientes tienen una alta probabilidad condicional y cuáles no, fomentando el aprendizaje cooperativo y la discusión [1], [1].
+
+Uso de ejemplos del mundo real y culturalmente relevantes:
+La lección comenzó mostrando a los estudiantes una ilustración de una aplicación de texto predictivo en acción y mensajes de texto incompletos, que los estudiantes completaron en función de su propia experiencia con los mensajes de texto. Esta contextualización se alinea con los enfoques constructivistas que conectan el conocimiento previo y los contextos de la vida real en el aprendizaje [1].
+
+Investigación basada en datos y cálculos de probabilidad experimental:
+Los estudiantes recibieron conjuntos de datos que contenían mensajes de texto reales (por ejemplo, 20 mensajes de diferentes usuarios y un conjunto de datos global cargado en Google Sheets). Fueron guiados para calcular probabilidades condicionales experimentales a partir de los datos, convirtiendo la lección en una actividad de análisis de datos basada en la investigación [1], [1].
+
+Uso de la tecnología: Google Sheets y manipulación de conjuntos de datos:
+La incorporación de software de hoja de cálculo permitió a los estudiantes interactuar con datos reales computacionalmente, buscando frases, contando ocurrencias y calculando probabilidades, apoyando la alfabetización digital junto con el razonamiento matemático [1].
+
+Conjeturas de algoritmos y generación de hipótesis:
+La lección incluyó indicaciones diseñadas para guiar a los estudiantes a conjeturar algoritmos que podrían traducirse en código máquina, promoviendo el pensamiento de orden superior y el razonamiento algorítmico mediado por conceptos de IA / ML [1].
+
+Discusión en el aula y reflexión sobre conceptos de IA:
+Después de las actividades de datos, la discusión en el aula se centró en cómo los conjuntos de datos más grandes mejoran la precisión predictiva (inteligencia de las máquinas), profundizando la comprensión conceptual a través de la metacognición y el diálogo grupal [1].
+
+Resumen de metodologías:
+La metodología se basa predominantemente en la investigación y es constructivista, mediada por el análisis colaborativo de datos utilizando conjuntos de datos del mundo real, junto con una discusión reflexiva sobre los conceptos de IA. La utilización de herramientas digitales como Google Sheets permite el cálculo práctico de probabilidades, y las indicaciones de andamiaje respaldan conjeturas algorítmicas inspiradas en los principios del aprendizaje automático.
+
+PI3: Modelos pedagógicos utilizados en la implementación de la inteligencia artificial y el aprendizaje automático en la enseñanza de las matemáticas en la educación secundaria
+Detalles sobre modelos pedagógicos:
+
+No se nombra ni describe explícitamente:
+El documento no define ni nombra explícitamente un modelo pedagógico específico (por ejemplo, aprendizaje basado en la investigación, aula invertida, aprendizaje basado en proyectos) por título formal.
+
+Elementos constructivistas implícitos:
+A partir de las descripciones, se evidencia un enfoque pedagógico constructivista, donde los estudiantes construyen conocimiento a través de la exploración, la conjetura, el análisis y la colaboración. El énfasis en que los estudiantes trabajen juntos para desarrollar algoritmos predictivos e interpretar probabilidades condicionales a partir de datos se alinea con dichos modelos.
+
+Énfasis en las conexiones del mundo real y la participación activa:
+infundir aplicaciones culturalmente relevantes (mensajes de texto predictivos) y conjuntos de datos auténticos sugiere un enfoque pedagógico en el aprendizaje situado o la educación matemática contextualizada, aunque no está explícitamente etiquetado.
+
+Aprendizaje andamiado a través de indicaciones:
+El uso de "indicaciones" para guiar a los estudiantes en sus conjeturas algorítmicas indica un enfoque escalonado, que apoya la comprensión gradual de los alumnos de conceptos complejos de IA a través de preguntas estructuradas [1].
+
+Resumen sobre modelos pedagógicos:
+El documento no informa sobre ningún modelo pedagógico formal o nombrado utilizado. En cambio, describe un enfoque de enseñanza exploratoria basado en principios constructivistas, que integra datos del mundo real y conjeturas colaborativas para enseñar de manera efectiva conceptos de IA / ML a través de contenido matemático.
+
+Resumen de las brechas en los informes
+El documento no informa ningún modelo pedagógico formal o nombrado bajo RQ3.
+No se mencionan otras aplicaciones específicas de IA o ML en matemáticas secundarias más allá del texto predictivo / lección de probabilidad condicional.
+No se describen explícitamente metodologías de enseñanza mediadas por IA adicionales más allá de las descritas.
+Resumen completo final
+El documento proporcionado ofrece un estudio de caso centrado en la integración de la inteligencia artificial y los principios del aprendizaje automático en la enseñanza secundaria de matemáticas a través de la lente de la probabilidad condicional y los algoritmos de texto predictivos. Los estudiantes interactúan en colaboración con conjuntos de datos de mensajes de texto auténticos para calcular probabilidades experimentales, fomentando una experiencia de investigación práctica mediada por herramientas digitales como Google Sheets. Conjeturan algoritmos predictivos que vinculan la teoría matemática con los procesos de aprendizaje automático, obteniendo información sobre cómo el aumento de datos mejora la precisión predictiva de la IA. Pedagógicamente, el enfoque se alinea con los principios de aprendizaje constructivista, contextual y andamiado, aunque no se nombra explícitamente ningún modelo pedagógico formal. El documento proporciona un ejemplo singular e importante de aplicaciones de IA/ML en la enseñanza secundaria de matemáticas, pero no informa sobre aplicaciones, metodologías o marcos pedagógicos más amplios más allá de los directamente relacionados con la lección presentada. Todas las inferencias y descripciones se extraen estrictamente del contenido textual proporcionado en el documento.

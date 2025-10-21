@@ -2,7 +2,7 @@
 
 ## 📋 Descripción del Proyecto
 
-Este repositorio contiene una **revisión sistemática de mapeo (mapping review)** sobre las aplicaciones de Inteligencia Artificial (IA) y Machine Learning (ML) en el proceso de enseñanza-aprendizaje de las matemáticas en educación K-12.
+Este repositorio describe el proceso realizado en la **Revisión Sistemática de Literatura (Systematic Review of literature - SLR)** sobre las aplicaciones de Inteligencia Artificial (IA) y Machine Learning (ML) en el proceso de enseñanza-aprendizaje de las matemáticas en educación K-12.
 
 **Dataset**: 89 publicaciones científicas analizadas (2021-2025)
 
@@ -10,7 +10,7 @@ Este repositorio contiene una **revisión sistemática de mapeo (mapping review)
 
 Identificar y analizar sistemáticamente las aplicaciones de la Inteligencia Artificial (IA) y Machine Learning (ML) en el proceso de enseñanza-aprendizaje de las matemáticas a través de una revisión exhaustiva de la literatura científica.
 
-## ❓ Preguntas de Investigación (Mapping Questions - MQ)
+## ❓ Preguntas del mapeo de literatura (Mapping Questions - MQ)
 
 - **MQ1**: ¿Cuántos estudios se han publicado a lo largo de los años?
 - **MQ2**: ¿Quiénes son los autores más activos del área?
@@ -21,6 +21,11 @@ Identificar y analizar sistemáticamente las aplicaciones de la Inteligencia Art
 - **MQ7**: ¿En qué dominios se centran los estudios?
 - **MQ8**: ¿Qué años cubren los estudios de revisión y mapeo?
 - **MQ9**: ¿Qué tipo de revisiones se publican?
+
+## ❓ Preguntas de Investigación (Research Questions - RQ)
+- **RQ1**: ¿Cuáles son las aplicaciones de la Inteligencia Artificial y del Machine Learning en procesos de aprendizaje-enseñanza de las matemáticas en la educación media?
+- **RQ2**: ¿Qué tipos de metodologías didácticas mediadas con Inteligencia Artificial y Machine Learning son aplicadas en la enseñanza de la matemática en la educación media?
+- **MQ3**: ¿Cuáles son los modelos pedagógicos que se usan cuando se implementa Inteligencia Artificial y Machine Learning en la enseñanza de las matemáticas en la educación media?
 
 ## 📁 Estructura del Repositorio
 
@@ -131,7 +136,7 @@ El análisis se realiza utilizando **Google Colab** con los siguientes notebooks
 
 ## 📚 Contribuciones
 
-Este proyecto es parte de una **investigación doctoral** sobre IA en educación matemática.
+Este trabaja es parte de un **proyecto de investigación** sobre IA/ML en el proceso de enseñanza-aprendizaje de las matemáticas.
 
 ## 📄 Licencia
 
@@ -139,7 +144,7 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 👤 Contacto
 
-Para más información sobre este proyecto, contacta al autor principal.
+Para más información sobre este proyecto, contacta al autor principal al correo: deiviseduard.ramirez@unir.net.
 
 ---
 
