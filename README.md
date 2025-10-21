@@ -1,4 +1,4 @@
-# Systematic Review of Literature: Inteligencia Artificial y Machine Learning en Educación Matemática K-12
+# Systematic Review of Literature: Artificial Intelligence and Machine Learning in K-12 Mathematics Education
 
 ## 📋 Descripción del Proyecto
 
