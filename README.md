@@ -1,4 +1,4 @@
-# Mapping Review: Inteligencia Artificial y Machine Learning en Educación Matemática K-12
+# Systematic Review of Literature: Inteligencia Artificial y Machine Learning en Educación Matemática K-12
 
 ## 📋 Descripción del Proyecto
 
